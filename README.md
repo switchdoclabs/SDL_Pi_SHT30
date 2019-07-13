@@ -6,7 +6,8 @@
 #
 #
 
-Version 1.1: July 8, 2019:  Initial Version
+Version 1.2: July 13, 2019:  Fixed Typo in fast reads <BR>
+Version 1.1: July 8, 2019:  Initial Version<BR>
  
 
 #Introduction
