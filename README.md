@@ -6,6 +6,7 @@
 #
 #
 
+Version 1.3: July 27, 2019:  Fixed typo and problem with T > 120F<BR>
 Version 1.2: July 13, 2019:  Fixed Typo in fast reads <BR>
 Version 1.1: July 8, 2019:  Initial Version<BR>
  
